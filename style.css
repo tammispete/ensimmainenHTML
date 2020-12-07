@@ -58,3 +58,6 @@ background-color: #edf0e4;
  h3 {
 text-shadow: 2px 2px 2px grey;
  }
+p {
+padding: 5px;	
+}
