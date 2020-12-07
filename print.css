@@ -1,0 +1,3 @@
+#nav{ display: none; }
+.newpage{ page-break-before: always; }
+#sidebar a:after {    content: " (" attr(href) ") "; }
